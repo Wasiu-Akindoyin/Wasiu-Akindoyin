@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wasiu-Akindoyin
 - 👀 I’m interested in ... Web 3.0
-- 🌱 I’m currently learning ... C and other low programming languages
+- 🌱 I’m currently learning ... C and other low level programming languages
 - 💞️ I’m looking to collaborate on ... Web 3.0 Projects
 - 📫 How to reach me ... @AkindoyinWasiu
 
