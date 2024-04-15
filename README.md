@@ -6,12 +6,12 @@
 I have a strong background in frontend development and a keen interest in creating software solutions that address real-world challenges.
 
 ## Projects and Experience
-- [Project Name](link): Brief description and key achievements.
-- [Project Name](link): Brief description and key achievements.
+- [Lagos State Image Slider](https://wasiu-akindoyin.github.io/Lagos-State-Images-Art-Gallery/): Brief description and key achievements.
+- [Weather Forecast Application](https://wasiu-akindoyin.github.io/People-Counter-Web-Application/): Brief description and key achievements.
 
 ## Skills & Technologies
-- Frontend Frameworks: React, Vue.js, etc.
-- Languages: JavaScript, TypeScript, HTML, CSS, etc.
+- Frontend Framework: React.
+- Languages: JavaScript, HTML, CSS, etc.
 - Tools: Webpack, Babel, ESLint, etc.
 
 ## Collaboration
